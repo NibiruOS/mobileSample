@@ -1,0 +1,9 @@
+rootProject.name = 'nibiruMobileSample'
+
+include ':ar.com.oxen.nibiru.mobile.sample.android'
+include ':ar.com.oxen.nibiru.mobile.sample.app'
+include ':ar.com.oxen.nibiru.mobile.sample.gwt'
+include ':ar.com.oxen.nibiru.mobile.sample.ios'
+include ':ar.com.oxen.nibiru.mobile.sample.mgwt'
+include ':ar.com.oxen.nibiru.mobile.sample.server'
+include ':ar.com.oxen.nibiru.mobile.sample.wp'
